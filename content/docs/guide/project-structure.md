@@ -1,9 +1,15 @@
 ---
-title: Project Structure
+title: Modelling and code generation
 weight: 1
 ---
 
-## Folder Structure
+## Modelling and code generation using open source tools
+
+One of the best tools that industry offers is **MATLAB / Simulink** for modelling the system behaviour and generate the code which can be directly integrated in embedded code.
+
+Here I intent to explore more on the tools available in open source domain and if they can generate atleast some basic usable code.
+
+Options available to me are as follows : 
 
 There are **4 main folders for Hugo-based sites**:
 

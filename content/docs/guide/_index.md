@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Experimenting Topics
 weight: 2
 sidebar:
   open: true
