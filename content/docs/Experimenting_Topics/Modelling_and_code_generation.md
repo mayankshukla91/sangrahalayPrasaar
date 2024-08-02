@@ -9,6 +9,17 @@ One of the best tools that industry offers is **MATLAB / Simulink** for modellin
 
 Here I intent to explore more on the tools available in open source domain and if they can generate atleast some basic usable code.
 
+
+Tools considered :
+- Scilab
+  - XCOS and its other tool chains
+
+
+Information :
+XCOS also supports direct interfaces for microchip ans STM controllers.
+
+
+
 Options available to me are as follows : 
 
 There are **4 main folders for Hugo-based sites**:
